@@ -29,7 +29,7 @@ get_header();
     					</a>
 						</p>
             <h1 class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Lovačko društvo "FAZAN"</h1>
-            <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Jedina fazanerija u Hrvatskoj koja ima svoje matično jato</p>
+            <p class="mb-4" data-scrollax="properties: { translateY: '30%', opacity: 1.6 }">Jedina fazanerija u Hrvatskoj koja ima svoje matično jato.</p>
           </div>
         </div>
       </div>
