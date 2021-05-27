@@ -43,7 +43,7 @@ get_header();
               <div class="icon"><span class="flaticon-layers"></span></div>
               <div class="media-body">
                 <h3 class="heading mb-3">Fazanerija</h3>
-                <p>Fazanerija kapaciteta 30.000 fazana. Posljednih nekoliko godina uzgajamo od 18.000 do 22.000 fazana. izmjena</p>
+                <p>Fazanerija kapaciteta 30.000 fazana. Posljednih nekoliko godina uzgajamo od 18.000 do 22.000 fazana.</p>
                 <p><a href="<?php bloginfo('url'); ?>/fazanerija/" class="btn btn-primary">Pročitaj više</a></p>
               </div>
             </div>      
